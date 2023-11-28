@@ -1,0 +1,36 @@
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\bin\Release\Onana Hospital Management System.exe.config
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\bin\Release\Onana Hospital Management System.exe
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\bin\Release\Onana Hospital Management System.pdb
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.Form1.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmAppointment.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmConsultation.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmDocPrescription.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmHelp.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmLogin.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmMedication.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmNurseTest.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmEmployee.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmParent.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmPatientBills.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmPayments.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmsplashScreen.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmSupplier.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmProduct.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmPatient.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmupdateEmployee.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmUpdatePassword.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmUpdatePatient.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmUsers.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmViewAppointment.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmViewBills.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmviewDailyTrans.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmViewDept.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmViewEmployee.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmViewPatient.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmViewPatientWeight.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmViewUsers.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.frmWard.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana_Hospital_Management_System.Properties.Resources.resources
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana Hospital Management System.csproj.GenerateResource.Cache
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana Hospital Management System.exe
+D:\New Projects\hospital-app\Hospital app\Onana Hospital Management System\obj\Release\Onana Hospital Management System.pdb
