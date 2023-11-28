@@ -1,7 +1,3 @@
-contact us on whatsapp: +233553828805
-email: michaelokyere191@gmail.com
-
-
 LOGIN FOR ADMINISTRATOR
  PRIVILEGE = Administrator
  USERNAME = Admin
